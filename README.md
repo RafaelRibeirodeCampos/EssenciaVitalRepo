@@ -41,8 +41,6 @@ Feedback baseado nas escolhas
 
 Dicas de melhoria
 
-Recomen
-
 🚀 Tecnologias Utilizadas
 
 Android Studio (Java) – Lógica do aplicativo
